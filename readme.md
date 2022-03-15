@@ -1,0 +1,1 @@
+This project gives basic knowledge about plotly along with data exploration.
